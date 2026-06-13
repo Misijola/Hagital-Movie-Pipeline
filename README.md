@@ -1,7 +1,6 @@
 # Movie Streaming Platform Analytics
 
 **Hagital Consulting Data Engineering Bootcamp — Group 5 Project**  
-**Author:** Marvellous Isijola (EMIMO)
 
 ## Overview
 An end-to-end ETL pipeline that fetches real movie data from the TMDB API,
