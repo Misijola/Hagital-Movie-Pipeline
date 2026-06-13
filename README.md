@@ -8,7 +8,7 @@ simulates user watch behaviour, loads everything into PostgreSQL, and
 visualizes insights on a Grafana dashboard.
 
 ## Pipeline Structure
-extract_movie.py--> transform_movie.py --> load_movie.py
+extract_movie.py--> transform_movie.py--> load_movie.py
 
 ## Tech Stack
 - **Python** (requests, pandas, psycopg2, SQLAlchemy)
