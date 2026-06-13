@@ -18,7 +18,7 @@ from sqlalchemy import create_engine
 # ── Database connection settings ──
 DB_NAME = "movie_db"
 DB_USER = "postgres"
-DB_PASS = "postgres2007"   # change to your PostgreSQL password
+DB_PASS = "yourpassword"   # change to your PostgreSQL password
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
